@@ -1,0 +1,11 @@
+{
+  "name": "ClipIt",
+  "version": "0.1.0",
+  "installer": "ClipIt-Setup.exe",
+  "source": "ClipIt_0.1.0_x64-setup.exe",
+  "bytes": 1342185,
+  "sha256": "a5acbcc892c6ea4e701107be8976ff7f706485960c32b1ef67fa5615d53aa642",
+  "builtAt": "2026-11-20T19:39:52.071Z",
+  "publishedAt": "2026-11-20T19:40:25.907Z",
+  "requires": "Windows 10 or 11 (64-bit). FFmpeg must be installed: winget install Gyan.FFmpeg"
+}
